@@ -1,7 +1,7 @@
 ## GAN_Image_Generator
 Generative adversarial networks (GAN)
 GAN-MNIST-Handwritten-Digits
-This repository contains the code and resources for a project that uses Generative Adversarial Networks (GANs) to generate new images of handwritten digits. The GAN model is trained on the MNIST dataset, which consists of real images of handwritten digits from 0 to 9.
+This repository contains the code and resources for a project that uses Generative Adversarial Networks (GANs) to generate new images of handwritten digits. The GAN model is trained on the MNIST dataset, which consists of real images of handwritten digits from 0-9.
 
 Project Overview :
 The goal of this project is to explore the capabilities of GANs in generating realistic images. By training the model on the MNIST dataset, we aim to generate new, unique images of handwritten digits that are indistinguishable from the real ones.
